@@ -17,6 +17,7 @@
 
     
 ## TDD
+
 ### What was positive and good about using TDD?
 - Nem opsætning med Maven og let at komme igang med den første test
 - Sikre at programmet fortsat fungerer efter hensigten gennem refaktorering
@@ -28,5 +29,6 @@
 
 ### What surprised you?  
 - Kunsten at overholde TDD til fulde er svært, da man allerede fra start har ideen til hvordan dette skal løses og typisk fortsætter implementationen fremfor at skrive testen først.
-##### Did TDD help you write some tests you wouldn’t otherwise have thought of?  
+
+### Did TDD help you write some tests you wouldn’t otherwise have thought of?  
 - Ikke umiddelbart. Opgavernes krav var jo defineret, så det var svært at finde på tests som ikke allerede var udtænkt fra begyndelsen.
